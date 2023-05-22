@@ -1,6 +1,6 @@
 ﻿# Documentação do Sistema de Reservas de Hotel
 ## Introdução
-A documentação a seguir descreve o sistema de reservas de hotel, que permite aos usuários realizar reservas de quartos de hotel. O sistema é desenvolvido usando Java com Spring Boot e Postgres como banco de dados.
+A documentação a seguir descreve o sistema de reservas de hotel, que permite aos usuários realizar reservas de quartos de hotel. O sistema é desenvolvido usando Java com Spring Boot e H2 como banco de dados.
 
 ## Instalação
 Para executar o sistema, siga as etapas abaixo:
