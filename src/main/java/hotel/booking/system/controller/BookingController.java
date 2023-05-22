@@ -50,6 +50,5 @@ public class BookingController {
         bookingService.deleteBookingById(id);
     }
 
-    // Outros métodos do controlador, se necessário
 }
 

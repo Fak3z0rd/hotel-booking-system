@@ -50,6 +50,5 @@ public class RoomController {
         roomService.deleteRoomById(id);
     }
 
-    // Outros métodos do controlador, se necessário
 }
 

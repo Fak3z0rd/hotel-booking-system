@@ -50,6 +50,5 @@ public class GuestController {
         guestService.deleteGuestById(id);
     }
 
-    // Outros métodos do controlador, se necessário
 }
 
